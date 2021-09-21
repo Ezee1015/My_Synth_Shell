@@ -1,5 +1,5 @@
 # INSTALACION DEL SYNTH-SHELL
-Ejecute esto (para Debian 1 y basadas)...
+Ejecute esto (para Debian 11 y basadas)...
 
 ```
 sudo apt install fonts-powerline
