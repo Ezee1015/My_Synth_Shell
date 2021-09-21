@@ -1,5 +1,5 @@
 # INSTALACION DEL SYNTH-SHELL
-Ejecute esto (para Debian 11 y basadas)...
+Ejecute esto (para Debian 11 y basadas) y Siga los pasos del Instalador...
 
 ```
 sudo apt install fonts-powerline
@@ -13,7 +13,7 @@ clear
 
 ## CUSTOMIZACION PARA DEBIAN 11
 
-Siga los pasos del Instalador y luego realize esto:
+Para Customizarlo con mi tema de Debian 11, realize esto (los archivos a copiar están dentro de la carpeta "Customizacion"):
 
   1) Copie el '.Nombre_Distro' a su directorio Home
   2) Reemplaze con el archivo 'synth-shell-prompt.config' por el que está en ~/.config/synth-shell/synth-shell-prompt.config
