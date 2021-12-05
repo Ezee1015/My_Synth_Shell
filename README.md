@@ -15,7 +15,7 @@ clear
 
 Para Customizarlo con mi tema de Debian 11, realize esto (los archivos a copiar están dentro de la carpeta "Customizacion"):
 
-  1) Copie el 'Nombre_Distro' a su directorio Home y cámbiele el nombre a '.Nombre_Distro'  -->  Contiene el texto a mostrar cuando se inicie la consola (hecho con neofetch -L y figlet)
+  1) Copie el 'Nombre_Distro.txt' a su directorio Home y cámbiele el nombre a '.Nombre_Distro.txt'  -->  Contiene el texto a mostrar cuando se inicie la consola (hecho con neofetch -L y figlet)
   2) Reemplaze con el archivo 'synth-shell-prompt.config' por el que está en ~/.config/synth-shell/synth-shell-prompt.config  --> Contiene las configuraciones de colores del Script
   3) Agregue esto al final del ~/.bashrc  --> Para imprimir el logo y texto de Debian 11
  
