@@ -32,4 +32,6 @@ NC='\033[0m' # No Color
 echo -e "${BLUE} $NEODEBIAN \n"
 
 # neofetch -L
+
+alias actualizar='sudo apt update && sudo apt upgrade -y && sudo apt autoremove --purge -y && flatpak update'                                                       alias ifconfig='nmcli'
 ```
