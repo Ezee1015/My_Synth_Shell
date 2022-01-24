@@ -30,7 +30,7 @@ echo "alias ifconfig='nmcli'" >> ~/.bashrc
 
 
 echo "PRUEBA=$(distro | grep Manjaro)" >> ~/.bashrc
-echo "" >> ~/.bashrc
+echo "clear" >> ~/.bashrc
 echo "if [ "$PRUEBA" == "" ] ; then" >> ~/.bashrc
 echo "" >> ~/.bashrc
 echo "    NEODEBIAN=$(cat ~/.Nombre_Distro.txt)" >> ~/.bashrc
